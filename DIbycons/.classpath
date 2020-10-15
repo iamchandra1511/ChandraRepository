@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/MyPracticeExamples/DIbycons/src/lib/asm.jar"/>
+	<classpathentry kind="lib" path="D:/MyPracticeExamples/DIbycons/src/lib/aspectjrt-1.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/MyPracticeExamples/DIbycons/src/lib/aspectj-weaver.jar"/>
+	<classpathentry kind="lib" path="D:/MyPracticeExamples/DIbycons/src/lib/aspectjweaver-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyPracticeExamples/DIbycons/src/lib/cglib-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/MyPracticeExamples/DIbycons/src/lib/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyPracticeExamples/DIbycons/src/lib/org.springframework.aop-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/MyPracticeExamples/DIbycons/src/lib/org.springframework.asm-3.1.0.M1.jar"/>
+	<classpathentry kind="lib" path="D:/MyPracticeExamples/DIbycons/src/lib/org.springframework.beans_3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/MyPracticeExamples/DIbycons/src/lib/org.springframework.context-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/MyPracticeExamples/DIbycons/src/lib/org.springframework.core-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/MyPracticeExamples/DIbycons/src/lib/org.springframework.expression-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="D:/MyPracticeExamples/DIbycons/src/lib/org.springframework.expression-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="D:/MyPracticeExamples/DIbycons/src/lib/org-apache-commons-logging.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
